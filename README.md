@@ -8,7 +8,7 @@ A primeira linhha descreva a linguangem do script(bash, sh, htm, etc).
 
 confirma senha:
 
->export PGPASSWORD = "SENHA_DO_POSTEGRES"
+>export PGPASSWORD = "senhaPostgres"
 
 Utiliza o comando pg_dump para realizar backup e pg_restore para para o postgres reconhecer dados do backup
 
